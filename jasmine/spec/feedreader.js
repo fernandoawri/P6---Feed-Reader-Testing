@@ -3,7 +3,7 @@ $(function() {
     describe('RSS Feeds', function() {
         // 6.- Edit the allFeeds variable in ./js/app.js to make the provided test fail and see how Jasmine visualizes this failure in your application.
         // 7.- Return the allFeeds variable to a passing state.
-        it('are defined', function() {
+        it('allFeeds is defined', function() {
             expect(allFeeds).toBeDefined();
             expect(allFeeds.length).not.toBe(0);
         });
@@ -81,7 +81,7 @@ $(function() {
           expect($("h1.header-title").html()).not.toBe(headerFeeds);
           done();
       });
-      
+
       afterAll(function(done) {
           loadFeed(0, done);
       });
