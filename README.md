@@ -13,7 +13,7 @@ Inside project P6 - Feed-Reader-Testing there are 4 folders css, images & js als
 Once you lunched the P6 - Feed-Reader-Testing in the browser, you can Click the menu button and you will see in the left side the preloaded links that you can click and see feeds for the selected link.
 The content and the title will change for each Link into the menu.
 
-![P6-Feed-Reader-Testing](https://github.com/fernandoawri/P5-Neighborhood-Map/blob/master/src/images/preview.png)
+![P6-Feed-Reader-Testing](https://github.com/fernandoawri/P6---Feed-Reader-Testing/blob/master/screenshot.jpg)
 
 ### How to validate along with Jasmine JS
 1. Inside of the jasmine/spec/ you will find feedreader.js where all the test are defined.
